@@ -38,7 +38,7 @@ export default class MyDocument extends Document {
           <meta property="og:title" content="Sachi Kaushik - MERN/MEAN stack developer" />
           <meta property="og:description" content="Sachi Kaushik." />
           <meta property="og:image" content="" />
-          <meta property="twitter:card" content="summary_large_image" />
+          <meta property="twitter:card" content="" />
           <meta property="twitter:title" content="Sachi Kaushik - MERN/MEAN stack developer" />
           <meta property="twitter:description" content="Sachi Kaushik." />
           <meta property="twitter:image" content="" />
